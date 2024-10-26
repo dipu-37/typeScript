@@ -1,5 +1,6 @@
 "use strict";
-const courseName = "next lavel web development";
+// type courseNameType = string
+// const courseName: courseNameType = "next lavel web development"
 const calculate = (number1, number2, operation) => {
     return operation(number1, number2);
 };

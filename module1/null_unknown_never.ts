@@ -15,4 +15,4 @@ const getcarSpreed = (speed : unknown) =>{
 }
 
 getcarSpreed(10);
-getcarSpreed("10 kmh-1")
+getcarSpreed("10 kmh-1");

@@ -21,6 +21,8 @@ const greetFriend = (...friends: string[]): void => friends.forEach((friend)=>{
 greetFriend("dipu", "pk", "rakin"); // Shows the array of friends
 
 
+// array and object destructuring 
+
 
 
 // const greetFriends = (friend1: string, friend2: string, friend3: string): void =>
