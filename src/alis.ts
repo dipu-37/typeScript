@@ -1,7 +1,7 @@
 
 
-type courseNameType = string
-const courseName: courseNameType = "next lavel web development"
+// type courseNameType = string
+// const courseName: courseNameType = "next lavel web development"
 
 
 type operationType = (x:number,y:number)=> number
